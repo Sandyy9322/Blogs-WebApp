@@ -14,11 +14,16 @@ Welcome to the Blog App repository! This application is built using the MERN (Mo
 
 ## Screenshots
 
-![Screenshot 1](https://user-images.githubusercontent.com/67452985/172217325-4378400e-60a0-4364-aadb-89e900886a1c.png)
+![Screenshot 1](images/Screenshot%20(18).png)
 
-![Screenshot 2](https://user-images.githubusercontent.com/67452985/172217368-76264e6e-8373-484d-9cd0-3af5920754b1.png)
 
-![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
+![Screenshot 2](images/Screenshot%20(19).png)
+
+
+![Screenshot 3](images/Screenshot%20(20).png)
+
+![Screenshot 4](images/Screenshot%20(22).png)
+
 
 ## Getting Started
 
@@ -57,17 +62,7 @@ cd client && npm start
 
 6. Access the application in your web browser at [http://localhost:3000](http://localhost:3000).
 
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to this project, please feel free to open an issue or Make a PR.
 
 
-## Acknowledgments
-
-We would like to thank all contributors and the open-source community for their support.
-
----
-
-Feel free to explore the codebase and start creating and sharing your blogs with the world! If you have any questions or need assistance, please don't hesitate to reach out.
 
 Happy blogging!
